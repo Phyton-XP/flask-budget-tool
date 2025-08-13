@@ -17,3 +17,10 @@ venv/
 .idea/
 .vscode/
 .DS_Store
+# Archive
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar

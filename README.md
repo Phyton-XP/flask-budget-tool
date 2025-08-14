@@ -22,7 +22,7 @@ Unter Windows oder macOS ist eine manuelle Anpassung der Pfade/Installation nöt
 sudo apt update && sudo apt install python3 python3-venv python3-pip -y
 
 # Repository klonen
-git clone https://github.com/Pyhton-XP/flask-budget-tool.git
+git clone https://github.com/Python-XP1/flask-budget-tool.git
 cd flask-budget-tool
 
 # Virtuelle Umgebung erstellen & aktivieren

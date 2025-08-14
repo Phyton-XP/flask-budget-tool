@@ -36,6 +36,12 @@ pip install -r requirements.txt
 python3 init_db.py
 
 ---
+## 🖼️ Screenshot
+
+So sieht das **Flask Budget Tool** in der Mobilen Version aus:
+
+![Flask Budget Tool Screenshot](docs/Screenshot.png)
+---
 
 ## Erweiterte Versionen & Support 🚀
 Die hier veröffentlichte Version ist die **kostenlose Basisversion**.

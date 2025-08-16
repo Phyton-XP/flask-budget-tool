@@ -46,7 +46,7 @@ On Windows or macOS manual path adjustments/installation are required.
 
 ### 🚀 Run the tool
 
-    python app.py
+    python3 app.py
 
 Then open your browser and visit:  
 - Local: http://localhost:5000  
@@ -115,7 +115,7 @@ Unter Windows oder macOS ist eine manuelle Anpassung der Pfade/Installation nöt
 
 ### 🚀 Tool starten
 
-    python app.py
+    python3 app.py
 
 Dann den Browser öffnen und aufrufen:  
 - Lokal: http://localhost:5000  

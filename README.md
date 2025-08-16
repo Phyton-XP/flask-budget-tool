@@ -44,6 +44,17 @@ On Windows or macOS manual path adjustments/installation are required.
 
 ---
 
+### 🚀 Run the tool
+
+    python app.py
+
+Then open your browser and visit:  
+- Local: http://localhost:5000  
+- From another device in the same network: http://<IP_of_your_Pi/Pc>:5000  
+  (example: http://192.168.178.25:5000)
+
+---
+
 ### 🖼️ Screenshot
 
 Here’s how the **Flask Budget Tool** looks on mobile:
@@ -99,6 +110,17 @@ Unter Windows oder macOS ist eine manuelle Anpassung der Pfade/Installation nöt
 
     # Datenbank initialisieren
     python3 init_db.py
+
+---
+
+### 🚀 Tool starten
+
+    python app.py
+
+Dann den Browser öffnen und aufrufen:  
+- Lokal: http://localhost:5000  
+- Von einem anderen Gerät im selben Netzwerk: http://<IP_deines_Pi/Pc>:5000  
+  (Beispiel: http://192.168.178.25:5000)
 
 ---
 

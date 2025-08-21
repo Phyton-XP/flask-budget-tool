@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+*.so
+
+# SQLite / Logs
+*.sqlite
+*.db
+*.log
+
+# Envs
+venv/
+.venv/
+
+# Caches / IDE
+.mypy_cache/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archive
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Flask / Translations
+*.mo
